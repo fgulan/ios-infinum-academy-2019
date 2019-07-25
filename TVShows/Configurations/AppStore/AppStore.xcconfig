@@ -1,0 +1,11 @@
+//
+//  AppStore.xcconfig
+//  TVShows
+//
+//  Created by Filip Gulan on 29/07/2018.
+//  Copyright © 2018 Filip Gulan. All rights reserved.
+//
+
+APP_VERSION = 1.0.0
+PRODUCT_BUNDLE_IDENTIFIER = co.infinum.fgulan.TVShows
+DISPLAY_NAME = TV Shows
